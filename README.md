@@ -184,11 +184,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ad
 
 I would like to acknowledge the following resources that were helpful in this project:
 
-* [Seaborn](https://seaborn.pydata.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
-* [Medium Published Notes](https://medium.com/)
+
 
 I also want to thank the open-source community for their contributions and support.
 
