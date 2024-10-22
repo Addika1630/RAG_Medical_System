@@ -28,9 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Addika1630/NLP_project">
-    <img src="images/logo1.PNG" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">Medical Analysis</h3>
 
@@ -80,15 +78,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/NLP_project/blob/main/images/screenshot1.png)
-
 The RAG Medical Prediction System leverages Retrieval-Augmented Generation (RAG) to enhance clinical decision-making by integrating real-time data retrieval with advanced natural language processing (NLP). This system is designed to provide healthcare professionals with predictive insights based on medical history, symptoms, and other relevant data, ultimately improving patient outcomes and streamlining the diagnostic process.
 
-* Exploratory Data Analysis (EDA): I began by conducting EDA to understand the financial dataset, including its structure and key features related to sentiment.
-* Data Cleaning: I meticulously cleaned the financial data, addressing issues such as missing values, outliers, and inconsistencies to ensure the integrity of the dataset for analysis.
-* Feature Engineering: I identified and engineered relevant features that could potentially impact sentiment analysis, such as keyword extraction and sentiment lexicons.
-* Model Selection and Training: I selected the naive Bayes and SVM models for sentiment analysis due to their effectiveness in text classification tasks. I trained these models using the cleaned and engineered features.
-* Model Evaluation: I evaluated the performance of the models using metrics such as accuracy, precision, recall, and F1-score to assess their effectiveness in predicting sentiment.
+* Real-Time Data Retrieval: Access up-to-date medical information from various sources to support accurate predictions.
+* Natural Language Processing: Utilize advanced NLP techniques to interpret and analyze clinical texts and patient data.
+* Predictive Analytics: Generate accurate predictions for medical conditions based on historical data and current symptoms.
+* User-Friendly Interface: An intuitive interface for healthcare professionals to input data and receive actionable insights.
+* Scalability: Designed to accommodate a growing number of users and increasing amounts of medical data.
 
 <br>
 
