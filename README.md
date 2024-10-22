@@ -106,13 +106,13 @@ Here are a few examples.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Welcome to the Maji Ndogo project! This README provides instructions on setting up the project locally.
+Welcome to the RAG_Medical! This README provides instructions on setting up the project locally.
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
  * python: Install Python
- * seaborn, matplotlib, pandas: Install using pip.
+ * networkx, node2vec, langchain-community, llama-index, sentence-transformers, pandas: Install using pip.
 
 ### Installation
 
@@ -120,14 +120,14 @@ Follow these steps to get a local copy up and running:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Addika1630/Integrated_project.git
+   git clone https://github.com/Addika1630/RAG_Medical_Systme.git
    ```
 2. Install packages
     ```sh
-    pip install seaborn
+    pip install networkx
     ```
     ```sh
-    pip install matplotlib
+    pip install pinecone-client
     ```
     ```sh
     pip install pandas
