@@ -32,10 +32,9 @@
     <img src="images/logo1.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Sentiment Analysis</h3>
+  <h3 align="center">Medical Analysis</h3>
 
   <p align="center">
-    Financial Sentiment Analysis!
     <br />
     <a href="https://github.com/Addika1630/NLP_project"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,7 +82,7 @@
 
   [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/NLP_project/blob/main/images/screenshot1.png)
 
-In a project focused on financial sentiment analysis, I embarked on using naive Bayes and SVM models to analyze sentiment in financial data. Here's an overview of the key aspects of the project:
+The RAG Medical Prediction System leverages Retrieval-Augmented Generation (RAG) to enhance clinical decision-making by integrating real-time data retrieval with advanced natural language processing (NLP). This system is designed to provide healthcare professionals with predictive insights based on medical history, symptoms, and other relevant data, ultimately improving patient outcomes and streamlining the diagnostic process.
 
 * Exploratory Data Analysis (EDA): I began by conducting EDA to understand the financial dataset, including its structure and key features related to sentiment.
 * Data Cleaning: I meticulously cleaned the financial data, addressing issues such as missing values, outliers, and inconsistencies to ensure the integrity of the dataset for analysis.
